@@ -3,7 +3,7 @@
   
 1: type "pip install pymysql" in Python's command prompt
 
-2: type "pip install tabulate" in Pyython's command prompt
+2: type "pip install tabulate" in Python's command prompt
 
 3: then create a database named "bill" in your sql
 
