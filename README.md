@@ -1,9 +1,9 @@
 # foodmart
 
   
-1: Install and import pymysql
+1: install and import pymysql
 
-2: Install and import tabulate
+2: install and import tabulate
 
 3: then create a database named "bill" in your sql
 
