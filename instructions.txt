@@ -2,5 +2,5 @@
 2: Type "pip install tabulate" in Pyython's command prompt
 3: Change the locations of all the image that are being used in the program according to your computer
 4: Then create a database named "bill" in your sql
-5: then change the password in the program according to the password of your sql
+5: Then change the password in the program according to the password of your SQL
 6: After running the program, at the end click show bill.the bill will be displayed on the Python's output window.
